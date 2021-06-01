@@ -4,6 +4,7 @@
 // @description  Removes the dumbass 'fact' boxes.
 // @author       Adam McKee
 // @match        http*://*.youtube.com/*
+// @updateURL    https://raw.githubusercontent.com/amckee/RemoveYoutubeFactBoxes/main/remove_fact_boxes.js
 // ==/UserScript==
 
 setTimeout(function() {
