@@ -8,4 +8,5 @@ What is the point of putting a "listen to the CDC" on a video from the CDC offic
 
 ![Now its gone](img/much_better.jpg)
 
-You'll need either ![Greasemonkey](https://www.greasespot.net) or ![Tampermonkey](https://www.tampermonkey.net) then click ![here](https://github.com/amckee/RemoveYoutubeFactBoxes/raw/main/remove_fact_boxes.user.js) to install.
+You'll need either [Greasemonkey](https://www.greasespot.net) or [Tampermonkey](https://www.tampermonkey.net) then click [here](https://github.com/amckee/RemoveYoutubeFactBoxes/raw/main/remove_fact_boxes.user.js) to install.
+
