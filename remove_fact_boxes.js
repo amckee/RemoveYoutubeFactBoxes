@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove Youtube Fact Boxes
-// @version      2021.03.04
+// @version      2021.06.01
 // @description  Removes the dumbass 'fact' boxes.
 // @author       Adam McKee
 // @match        http*://*.youtube.com/*
