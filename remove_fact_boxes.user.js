@@ -4,7 +4,7 @@
 // @namespace   https://github.com/amckee/RemoveYoutubeFactBoxes
 // @description Removes the dumbass 'fact' boxes.
 // @author      Adam McKee
-// @include     http*://*.youtube.com/*
+// @include     http*://*youtube.com/*
 // @updateURL   https://raw.githubusercontent.com/amckee/RemoveYoutubeFactBoxes/main/remove_fact_boxes.user.js
 // @supportURL  https://github.com/amckee/RemoveYoutubeFactBoxes/issues
 // @run-at      document-end
