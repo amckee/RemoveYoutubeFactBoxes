@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Remove Youtube Fact Boxes
-// @version     2021.06.01.1
+// @version     2021.06.24.1
 // @namespace   https://github.com/amckee/RemoveYoutubeFactBoxes
 // @description Removes the dumbass 'fact' boxes.
 // @author      Adam McKee
@@ -34,4 +34,8 @@ setTimeout(function() {
         el[0].style.display = 'none';
         el[0].remove();
     }
+
+    // remove live chat
+    el = document.querySelector("body > yt-live-chat-app");
+    el.remove();
 }, 1000);
